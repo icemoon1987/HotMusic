@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_title">
+        <item>Trending</item>
+        <item>Alternative Rock</item>
+        <item>Ambient</item>
+        <item>Classical</item>
+        <item>Country</item>
+        <item>Dance EDM</item>
+        <item>Dancehall</item>
+        <item>Deep House</item>
+        <item>Disco</item>
+        <item>Dubstep</item>
+        <item>Electronic</item>
+        <item>Folk</item>
+        <item>游戏</item>
+        <item>旅游</item>
+        <item>历史</item>
+        <item>探索</item>
+        <item>美食</item>
+        <item>育儿</item>
+        <item>养生</item>
+        <item>故事</item>
+        <item>美文</item>
+    </string-array>
+    <string-array name="home_title_code">
+        <item>__all__</item>
+        <item>video</item>
+        <item>news_hot</item>
+        <item>news_society</item>
+        <item>news_entertainment</item>
+        <item>news_tech</item>
+        <item>news_car</item>
+        <item>news_sports</item>
+        <item>news_finance</item>
+        <item>news_military</item>
+        <item>news_world</item>
+        <item>news_fashion</item>
+        <item>news_game</item>
+        <item>news_travel</item>
+        <item>news_history</item>
+        <item>news_discovery</item>
+        <item>news_food</item>
+        <item>news_baby</item>
+        <item>news_regimen</item>
+        <item>news_story</item>
+        <item>news_essay</item>
+    </string-array>
+</resources>
